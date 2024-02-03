@@ -5,7 +5,7 @@
 ## Technologies Used
 - **HTML**: The structure of the web pages.
 - **CSS:** Styling and layout for a visually appealing interface.
-- **JavaScript:** Interactivity and dynamic content generation.
+- **Vanilla Javascript:** Interactivity and dynamic content generation.
 - **TheMealDB API:** A comprehensive database for retrieving recipe information.
 
 ## Features
