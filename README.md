@@ -1,5 +1,5 @@
 # Recipe-finder
-  Discover delightful recipes based on the ingredients in your fridge
+  Discover delightful recipes based on the ingredients in your fridge.
   Welcome to the Recipe Finder! This web application allows you to discover delicious recipes using ingredients you have at hand, powered by TheMealDB API.
 
 ## Technologies Used
